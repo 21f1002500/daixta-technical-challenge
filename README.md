@@ -4,7 +4,7 @@ A small FastAPI service that takes a list of financial transactions and spits ou
 
 ## Getting started
 
-### Docker (easiest)
+### Docker
 
 ```bash
 docker compose up --build
